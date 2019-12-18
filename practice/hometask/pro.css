@@ -1,0 +1,104 @@
+.ref{
+	padding-left: 50px;
+}
+.y{
+	background-color: green;
+}
+.n{
+	background-color: grey;
+}
+.t1{
+	padding: 40px;
+	margin: 100px;
+}
+.t0{
+	padding: 40px;
+	margin-left: 760px;
+	margin-top: -488px;
+}
+caption{
+	display: table-caption;
+	background-color: blue;
+	color: white;
+	text-align: left;
+	height: 30px;
+}
+.t2{
+	background-color: white;
+}
+.tt{
+	background-color: blue;
+}
+.t3{
+	color: blue;
+}
+.tb3{
+	border: grey;
+	padding: 10px; 
+}
+.em{
+	margin-left: 90px;
+	width: 360px;
+}
+.pa{
+	margin-left: 72px;
+}
+.cou{
+	margin-left: 25px;
+}
+.ad, .sub, .da, .pri{
+	margin-left:85px;
+}
+.y1{
+	margin-left: 90px; 
+}
+.y3{
+	margin-left: 44px;
+}
+.y5{
+	margin-left: 60px;
+}
+.y7{
+	margin-left: 33px;
+}
+.y2{
+	margin-left: 30px;
+}
+.y2{
+	margin-left: 47px;
+}
+.y4{
+	margin-left: 45px;
+}
+.y6{
+	margin-left: 22px;
+}
+.y8{
+	margin-left:8px;
+}
+.ref{
+	margin-left: 30px;
+}
+.c1{
+margin-left: 61px;
+width: 360px;
+}
+.c2{
+	margin-left: 5px;
+	width: 360px;
+}
+.c3{
+	margin-left: 29px;
+	width: 360px;
+}
+.c4{
+	margin-left: 27px;
+	width: 360px;
+}
+.crea{
+/*	border-style:1px;*/
+	background-color: darkblue;
+	width: 40px;
+	color: white;
+	margin-left: 137px;
+}

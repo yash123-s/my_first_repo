@@ -1,0 +1,18 @@
+
+.grid1{
+	display: grid;
+	grid-template-areas: 'myarea myarea myarea myarea myarea myarea'
+	'area area area area mysore mysore'
+	'blore blore . . . .';
+	/*background-color: skyblue;*/
+	grid-gap: 30px;
+}
+.name1{
+	grid-area: myarea;
+}
+.name2{
+	grid-area: area;
+}
+.name3{
+	grid-area: mysore;
+}

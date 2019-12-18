@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Music</title>
+	</head>
+	<body>
+  		<h1>Singers</h1>
+  		<ol>
+  			<li>Justin Bieber</li>
+  			<li>Justin Timberlake</li>
+  			<li>Ariana Grande</li>
+  			<li>Katy Perri</li>
+  			<li>Dua Lipa</li>
+  		</ol>
+  		<dl>
+  			<ol>
+  				<li><h3>Justin Bieber</h3></li>
+  				<img src="https://www.biography.com/.image/t_share/MTM2OTI2NTkwNzE3MTQyNjIz/justin_bieber_2015_photo_courtesy_dfree_shutterstock_348418241jpg.jpg" alt="no image found" length="200" width="200" align="left">
+  				<p>
+  					Justin Drew Bieber (/ˈbiːbər/; born March 1, 1994) is a Canadian singer-songwriter and actor.[4] Encountered at 13 years old by talent manager Scooter Braun after he had watched the boy's YouTube cover song videos, Bieber was signed to RBMG Records in 2008. Bieber then released his debut EP, My World, in late 2009. It was certified Platinum in the United States. With the EP, Bieber became the first artist to have seven songs from a debut record chart on the US Billboard Hot 100.[5] Bieber released his first studio album, My World 2.0, in 2010. It debuted at number one in several countries, was certified triple Platinum in the US,[6] and contained his single "Baby", which debuted at number five on the Billboard Hot 100 and sold 12 million units.
+  				</p>
+  				<p>
+  					Following his debut album and promotional tours, he released his 3D biopic-concert film Justin Bieber: Never Say Never and his second studio album, Under the Mistletoe (2011), which debuted at number one on the Billboard 200. His third studio album, Believe (2012) generated the single "Boyfriend", which reached number one in Canada. His fourth studio album Purpose was released in 2015, spawning three number one singles: "What Do You Mean?", "Sorry", and "Love Yourself". Bieber has not released a studio album following Purpose, but has since been featured on several successful collaborations, including "Cold Water", "Let Me Love You", "Despacito (Remix)", "I'm the One" and "I Don't Care". His US album and singles sales total 44.7 million.[6][7] He has sold an estimated 150 million records, making him one of the world's best-selling music artists, and became the second person to reach 100 million followers on Twitter in August 2017 after Katy Perry.
+  				</p>
+          <p> 
+          	Bieber has won numerous awards throughout his career, including an American Music Award for Artist of the Year in 2010 and 2012, a Grammy Award for Best Dance Recording for the song "Where Are Ü Now", and a Latin Grammy Award.[8] He has been listed three times by Forbes magazine among the top ten most powerful celebrities in the world, in 2011, 2012, and 2013.[9] In 2016, Bieber became the first artist to surpass 10 billion total video views on Vevo.[10]
+          </p>
+          <li><h3>Justin Timberlake</h3></li>
+  			</ol>
+  		</dl>
+	</body>
+</html>

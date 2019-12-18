@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  /*margin: 0;
+  padding: 0;*/
+  overflow: hidden;
+  background-color: grey;
+}
+
+li {
+  float: left;
+  margin-left: 100px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: pink;
+}
+
+.search{
+  margin-top: 10px;
+}
+
+p
+ {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+
+.b{
+  margin-left: 1200px;
+}
+.a {
+  margin-left: 1200px;
+  margin-top: 15px;
+}

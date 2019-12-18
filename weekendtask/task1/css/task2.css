@@ -1,0 +1,34 @@
+/*#check{
+	margin: 20px;
+}
+.m10{
+	margin-left: 450px;
+}
+.m11{
+	margin-left: 443px;
+}
+*/
+#demo{
+	text-align: center;
+	font-size: 50px;
+	padding: 60px;
+	background-color:lightgrey;
+}
+.cls1{
+	margin-left: 250px;
+}
+.cls3{
+	margin-left: 242px;
+}
+.margin1{
+	margin-left: 250px;
+}
+.margin2{
+	margin-left: 300px;
+}
+.button{
+	background-color: #fc2403;
+}
+.subcolor{
+	background-color: green;
+}

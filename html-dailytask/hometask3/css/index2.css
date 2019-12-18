@@ -1,0 +1,124 @@
+nav{
+	/*background-image: url(../images/pink.jpeg);*/
+	background-color: #e44cc1bd;
+	height: 30px;
+}
+.top{
+	text-decoration: none;
+	color: #fff;
+	padding: 50px;
+}
+.h2{
+	float: left;
+}
+select{
+	border: none;
+	color: #fff;
+	background-color: transparent;
+}
+.second{
+	display: grid;
+	grid-template-columns: 10px 500px 300px 10px ;
+	padding:50px; 
+	justify-content: space-between;
+	/*background-image:  url(../images/pink.jpeg);*/
+	background-color: #e44cc1bd;
+}
+.icon1{
+	/*margin-left:-500px;*/
+	color: #fff;
+}
+.icon2{
+	margin-left: 651px;
+	color: #fff;
+}
+.cakeborder{
+	width: 150px;
+	height: 150px;
+	border: 10px solid #d43f8a;
+	border-radius: 100px;
+	float: left;
+	margin-left: 333px;
+}
+/*.next{
+	margin-left: 600px;
+}*/
+.item1{
+	font-size: 30px;
+	color: #fff;
+}
+.item2{
+	font-size: 25px;
+	margin-top: 5px;
+	color: #fff;
+}
+.readbutton{
+	background-color: #1b30b5;
+	border-radius: 50px;
+	border: none;
+	color: #fff;
+	font-size: 16px;
+	padding: 17px;
+	margin-top: 20px;
+}
+.top{
+	margin-top: 30px;
+	font-size: 27px;
+}
+.our{
+	text-align: center;
+	font-size: 30px;
+	/*background-image: url(../images/bakery.jpeg);*/
+	background-size: 300px;
+}
+.productimages{
+	display: grid;
+	grid-template-columns: 200px 200px 200px 200px;
+	grid-column-gap: 20px;
+	/*background-image: url(../images/bakery.jpeg);*/
+	background-size: 300px;
+	background-repeat: repeat;
+	justify-content: space-around;
+	padding-top: 50px;
+	/*padding-left: 350px;*/
+	padding-bottom: 30px;
+}
+.photo{
+	width: 194px;
+	height: 200px;
+}
+.item0{
+	border: 1px solid;
+	text-align: center;
+	padding-bottom: 20px;
+	background-color: #fff;
+}
+.cost{
+	margin-top: -20px;
+}
+.b0{
+	background-color: #d61576;
+	color: #fff;
+	border: none;
+	padding: 15px;
+	border-radius: 30px;
+	margin-top: -16px;
+	margin-left: 50px;
+}
+.b1{
+	background-color: #1b30b5;
+	color: #fff;
+	border: none;
+	padding: 15px;
+	border-radius: 30px;
+	margin-top: -16px;
+	margin-left: 50px;
+}
+.last{
+	text-align: center;
+	/*background-image: url(../images/pink.jpeg);*/
+	background-color: #e44cc1bd;
+	height: 50px;
+	color: #fff;
+	font-size: 25px;
+}

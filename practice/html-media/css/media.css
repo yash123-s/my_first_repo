@@ -1,0 +1,17 @@
+body{
+	background-color: blue;
+	color: coral;
+}
+@media only screen and (max-width: 700px){
+	body{
+		background-color:green;
+		color: lime;
+}
+img{
+	width: 500px;
+	height: auto; 
+}
+}
+img{
+	float: left;
+}

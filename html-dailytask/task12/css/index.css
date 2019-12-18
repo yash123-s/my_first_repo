@@ -1,0 +1,71 @@
+p{
+	background-color: #fce59a;
+}
+h1{
+	background-color: #fce59a;
+	padding:20px;
+}
+#icon{
+	margin-top: 10px;
+	font-size: 30px;
+}
+.first{
+	display: flex;
+	background-color: #0bb535;
+	height: 40px;
+	padding-top: 20px;
+	margin-top: -22px;
+}
+.paradiv{
+	display: flex;
+	flex-direction: column;
+	background-color: #fce59a;
+	height: 280px;
+	padding: 20px;
+}
+.item1{
+	margin-left: 200px;
+	color: #fff;
+	text-decoration: none;
+}
+.item2{
+	margin-left: 200px;
+	color: #fff;
+	text-decoration: none;
+}
+.item3{
+	margin-left: 200px;
+	color: #fff;
+	text-decoration: none;
+}
+.item4{
+	margin-left: 200px;
+	color: #fff;
+	text-decoration: none;
+}
+.petimage{
+	display: flex; 
+	background-color: #fff;
+}
+.pet{
+	margin-left: 250px;
+	width: 300px;
+	margin-top: 20px;
+}
+.dog{
+	margin-left: 250px;
+	width: 300px;
+	height: 230px;
+	margin-top: 20px;
+}
+.gif1{
+	height: 200px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+footer{
+	text-align: center;
+	background-color: #0bb535;
+	margin-top: 10px;
+	padding:15px; 
+}

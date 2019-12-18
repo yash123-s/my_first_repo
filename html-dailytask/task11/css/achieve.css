@@ -1,0 +1,26 @@
+.formborder{
+	border:1px solid; 
+	text-align: center;
+	width: 450px;
+	height: 160px;
+	background-color: #57b5a7;
+	padding:10px; 
+	margin-left: 540px;
+}
+.name{
+	margin-left: 90px;
+}
+.dept{
+	margin-left: 15px;
+}
+.dropn{
+	margin-left:10px;
+}
+.drop{
+	margin-left: 45px;
+	width: 180px;
+}
+button{
+	width: 320px;
+	background-color: transparent;
+}

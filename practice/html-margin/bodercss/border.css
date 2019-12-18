@@ -1,0 +1,13 @@
+p{
+	color: purple;
+	border-style: double;
+	border-color: gray;
+    border-width:20px;
+    padding: 20px; 
+}
+div{
+	border-style: solid;
+	border-color: lightgray;
+	padding: 40px 25px;
+	box-sizing: border-box;
+}

@@ -1,0 +1,18 @@
+table{
+	padding: 50px;
+	width: 50%;
+	margin-left: 400px;
+	color: #fff;
+}
+p{
+	margin-left: 30px;
+}
+.tr1{
+	background-color: #7fed7b;
+}
+.tr2{
+	background-color: #529450;
+}
+.tr3{
+	background-color:#274a26;
+}

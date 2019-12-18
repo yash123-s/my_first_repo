@@ -1,0 +1,82 @@
+.a{
+	background-color: red;
+
+}
+.dog{
+	margin-top: -500px;
+	/*padding-left:500px;*/
+}
+.margin{
+	margin-top: -100px;
+}
+.b{
+	float: left;
+	clear: left;
+	padding: 100px;
+	padding-left: 0px;
+}
+.foot{
+	margin-top: 5px;
+}
+div{
+	margin-bottom:300px;
+}
+p.ex1{
+	margin-left: 1400px;
+	margin-top: -20px;
+}
+.ex2{
+	margin-left: 400px;
+}
+p.ex3{
+	margin-left: 600px;
+}
+.street{
+	margin-left: 80px;
+	padding-left: 30px;
+}
+.city{
+	padding-left: 100px;
+}
+.states{
+	margin-left: 80px;
+}
+.pin{
+	padding-left: 80px;
+}
+.pinc{
+	padding-left: 270px;
+}
+.lan{
+	padding-left: 80px;
+	margin-top: -18px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+li a.active {
+  color: white;
+  background-color: #4CAF50;
+}

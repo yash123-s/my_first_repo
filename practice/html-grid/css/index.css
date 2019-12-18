@@ -1,0 +1,36 @@
+.first{
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-template-rows: 50px 50px;
+	grid-gap: 10px ;
+	
+	
+	background-color: coral;
+
+}
+.item1{
+	background-color: grey;
+}
+.item2{
+	background-color: red;
+}
+.item3{
+	background-color: blue;
+}
+.item4{
+	background-color: green;
+}
+.second{
+	display: grid;
+	grid-template-columns:inherit;
+	grid-template-rows: inherit;
+	
+	grid-gap: inherit;
+}
+.third{
+	display: grid;
+	grid-template-columns: inherit;
+	grid-template-rows: inherit;
+	/*grid-template-rows: inherit;*/
+	grid-gap: inherit;
+}

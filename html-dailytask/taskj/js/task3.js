@@ -1,0 +1,13 @@
+var _1=" 1."
+var a=" john ";
+var b=" is ";
+var c=" a ";
+var d= 28;
+var e= " year ";
+var f= " old ";
+var g= " teacher. ";
+var h= " Is ";
+var i= " he ";
+var j= " married? ";
+var k= " false. ";
+document.getElementById("line").innerHTML=_1+a+b+c+d+e+f+g+h+i+j+k;

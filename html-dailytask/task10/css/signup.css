@@ -1,0 +1,77 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+body{
+	background-color: #20382d;
+	font-family: monospace;
+	--widtha:400px;
+}
+#sign{
+	background-color: #4cf5a9;
+	padding: 10px;
+	font-size: 20px;
+}
+#log{
+	background-color: #11794d;
+	padding: 10px;
+	font-size: 20px;
+}
+.table1{
+	margin-left: 650px;
+	width: 400px;
+	text-align: center;
+	color: white;
+	margin-left: 570px;
+}
+#free{
+	color: #ffffff;
+	font-size: 40px;
+	text-align: center;
+}
+input{
+	background-color: transparent;
+}
+.email{
+	width: var(--widtha);
+	margin-top: 20px;
+}
+.pass{
+	width: var(--widtha);
+	margin-top: 20px;
+}
+.table2{
+	margin-left: 570px;
+}
+.sec{
+	margin-left: -180px;
+}
+.get{ 
+	background-color: #64f5c7;
+	font-family: monospace;
+	font-size: 30px;
+	color: #ffffff;
+	margin-top: 60px;
+	margin-left: 580px;
+	padding: 10px;
+	width: 400px;
+}

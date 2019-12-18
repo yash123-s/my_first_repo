@@ -1,0 +1,26 @@
+.contactpage{
+	font-size: 40px;
+	color: #2f1852;
+}
+.mapimage{
+	margin-left: 200px;
+	float: left;
+}
+body{
+	--widthform:300px;
+}
+.name1{
+	width: var(--widthform);
+	background-color: #fcb905;
+}
+.form1{
+	margin-left: 900px;
+}
+.name2{
+	width: var(--widthform);
+	height: 200px;
+	background-color: #fcb905;
+}
+.submit{
+	margin-left: 1050px;
+}

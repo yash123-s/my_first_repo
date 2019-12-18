@@ -1,0 +1,19 @@
+h2{
+				color: red;
+			}
+			p,h5{
+				color: green;
+			}
+			.welcome{
+				background-color: yellow;
+				color: pink
+			}
+			#thank you{
+				font-size: 100;
+			}
+			body{ 
+		background-image:url("../images/imageplane.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: 100px 200px;
+	     }

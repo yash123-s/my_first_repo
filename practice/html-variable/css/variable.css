@@ -1,0 +1,27 @@
+body{
+	--yas:coral;
+	--padding: 20px;
+}
+span {
+color: blue;
+border: 1px solid black;
+}
+
+.extra span{
+color: inherit;
+}
+
+#div1{
+	color: var(--yas);
+	border-style: solid;
+	border-color: var(--ys,yellow);
+	padding: var(--padding);
+}
+.he1{
+	background-color: silver;
+}
+.he2{
+	text-align: center;
+	color: red;
+	background-color: black;
+}

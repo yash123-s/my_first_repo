@@ -1,0 +1,1 @@
+document.write(" welome  to  \"javascript\"") ;

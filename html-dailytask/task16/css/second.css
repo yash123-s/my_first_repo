@@ -1,0 +1,111 @@
+body{
+	background-color: #000;
+}
+.first{
+	display: grid;
+	grid-template-columns: 180px 180px 180px 180px;
+	grid-template-rows: 100px 100px;
+	justify-content: space-around;
+	grid-row-gap: 50px;	
+}
+.item1{
+	background-color: #c4ccc6;
+	border:3px solid #737874;
+	border-radius: 10px;
+}
+.in1{
+	display: grid;
+	grid-template-columns: 30px 30px 30px 30px 30px;
+	grid-template-rows: 30px 30px 30px ;
+	justify-content: space-around;
+}
+.a1{
+	background-color: #4a84a1;
+	border:1px solid #000;
+	grid-row: 2/3;
+	border-radius: 5px;
+}
+.in2{
+	display: grid;
+	grid-template-columns: 30px 30px 30px ;
+	grid-template-rows: 30px 30px 30px;
+	justify-content: end;
+	grid-column-gap:6px; 
+}
+.a2{
+	background-color: #dbb242;
+	border:1px solid #000;
+	grid-row: 2/3;
+	border-radius: 5px;
+}
+.in4{
+	display: grid;
+	grid-template-columns: 30px 30px 30px 30px 30px;
+	grid-template-rows: 20px 20px 20px 20px 20px ;
+	/*justify-content: space-between;*/
+	/*align-content: space-between;*/
+	grid-row-gap: 6px;
+}
+.a4{
+	background-color: #dbb242;
+	border:1px solid #000;
+	grid-column: 3/4;
+	border-radius: 5px;
+	grid-row:2/3; 
+}
+.aa{
+	background-color: #dbb242;
+	border:1px solid #000;
+	grid-column: 3/4;
+	border-radius: 5px;
+	grid-row:3/4; 
+}
+.ab{
+	background-color: #dbb242;
+	border:1px solid #000;
+	grid-column: 3/4;
+	border-radius: 5px;
+	grid-row:4/5; 
+}
+.in5{
+	display: grid;
+	grid-template-columns: 30px 30px 30px ;
+	grid-template-rows: 30px 30px 30px ;
+	justify-content: space-around;
+}
+.a5{
+	background-color: #4a84a1;
+	border:1px solid #000;
+	grid-row: 2/3;
+	border-radius: 5px;
+}
+.in6{
+	display: grid;
+	grid-template-columns: 30px 30px 30px;
+	grid-template-rows: 30px 30px 30px ;
+	justify-content: space-around;
+}
+.a6{
+	background-color: #dbb242;
+	border:1px solid #000;
+	grid-row: 2/3;
+	border-radius: 5px;
+}
+.in7{
+	display: grid;
+	grid-template-columns: 60px 30px 30px;
+	grid-template-rows: 30px 30px 30px ;
+	justify-content: space-around;
+}
+.in8{
+	display: grid;
+	grid-template-columns: 40px 40px 40px;
+	grid-template-rows: 30px 30px 30px ;
+	justify-content: space-around;
+}
+.a8{
+	background-color: #dbb242;
+	border:1px solid #000;
+	grid-row: 2/3;
+	border-radius: 5px;
+}

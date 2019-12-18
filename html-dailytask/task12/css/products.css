@@ -1,0 +1,24 @@
+.row1{
+	display: flex;
+	margin-top: 20px;
+}
+.f1{
+	width: 200px;
+	height: 150px;
+	margin-left:200px; 
+}
+.f2{
+	width: 200px;
+	height: 150px;
+	margin-left:200px; 
+}
+.f3{
+	width: 200px;
+	height: 150px;
+	margin-left:200px; 
+}
+.row2{
+	display: flex;
+	background-color: #fff;
+	flex-direction: row-reverse;
+}

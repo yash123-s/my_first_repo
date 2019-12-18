@@ -1,0 +1,33 @@
+h1{
+	font-size: 25;
+	text-align: center;
+	color: red;
+}
+.flexb{
+	display: flex;
+	justify-content: space-around;
+}
+.image1{
+	width: 300px;
+}
+.image2{
+	width: 300px;
+	height: 160px;
+}
+.image3{
+	width: 300px;
+}
+.head{
+	width: 290px;
+	color: red;
+}
+.para1{
+	width:300px;
+	margin-top: 10px;
+}
+.hash{
+	text-decoration: none;
+}
+#continue{
+	margin-top: 10px;
+}

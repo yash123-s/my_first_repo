@@ -1,0 +1,70 @@
+body{
+	background-color: lime;
+	background-image: url(../images/image1.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-position: center; 
+}
+@media only screen and (max-width: 500px){
+	body{
+		background-color: coral;
+	}
+}
+.first{
+	display: flex;
+	width: 400px;
+	/*border:1px solid black;*/
+	flex-direction: row-reverse;
+	color: brown;
+	margin-left: 100px;
+}
+body{
+	--wid:100px;
+	--hei: 100px;
+}
+/*div{
+	width: 100px;
+	height: 100px;
+}*/
+.item1{
+	background-color: red;
+	margin-left: 50px;
+	color: inherit;
+	width: var(--wid);
+	height: var(--hei);
+}
+.item2{
+	background-color: blue;
+	color: grey;
+	width: var(--wid);
+	height: var(--hei);
+}
+.item3{
+	background-color: green;
+	color: black;
+	width: var(--wid);
+	height: var(--hei)
+}
+.second{
+	display: flex;
+	margin-top: 100px;
+}
+.rose{
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+}
+.nature{
+	width: 100px;
+	height: 100px;
+}
+.item5{
+	width: 100px;
+	height: 100px;
+}
+/*.harshitha{
+	margin-left: 50px;
+}*/
+.third{
+	display: flex;
+}

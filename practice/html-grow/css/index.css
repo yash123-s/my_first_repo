@@ -1,0 +1,26 @@
+.first{
+	display: inline-flex;
+	/*height:100px;
+	width: 300px;*/
+	border:1px black solid;
+	/*align-content: space-between*/;
+	/*flex-direction: column;*/
+	/*align-content: space-between;*/
+	/*justify-content: space-between;*/
+}
+#item{
+	
+	background-color: lime;
+}
+/*#item1{
+	background-color: coral;
+	
+}
+#item2{
+	
+	background-color: red;
+}*/
+.second{
+	display: inline-flex;
+	border:1px black solid;
+}

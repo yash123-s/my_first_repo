@@ -1,0 +1,50 @@
+img{
+	width: 200px;
+	padding: 100px;
+}
+body{
+	--margintop: -100px;
+	--marginleft: 100px;
+	--margin2left2:150px;
+	--margin1top1:-80px;
+	--margin3left3:200px;
+}
+table{
+	padding: 30px;
+}
+.price{
+	margin-top:var(--margintop);
+	margin-left:var(--marginleft);
+}
+.price2{
+	margin-left: var(--margin2left2);
+	margin-top:var(--margin1top1);
+}
+.price3{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}
+.price4{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}
+.price5{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}
+.price6{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}
+.price7{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}
+.price8{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}
+.price9{
+	margin-left: var(--margin3left3);
+	margin-top:var(--margin1top1);
+}

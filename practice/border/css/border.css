@@ -1,0 +1,44 @@
+body{
+	background-color: lime;
+}
+.a{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	/*background-color: grey;*/
+	background-image:url("../images/rose.jpeg");
+	border-radius: 40px;
+	
+}
+.b{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: green;
+	border-radius: 20px 60px;
+}
+.c{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: blue;
+	border-radius: 40px 60px 20px;
+}
+.d{
+	padding: 50px 40px;
+	/*background-color: yellow;*/
+	border-radius: 50%;
+	background-image: url("../images/rose.jpeg");
+	width: 50px;
+	length:50px;
+	margin-left: 500px;
+	background-attachment: scroll;
+}
+img{
+	border-radius: 50%; 
+	width: 100px;
+	height: 100px;
+}
